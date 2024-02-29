@@ -1,0 +1,24 @@
+[
+  {
+    "id": 2,
+    "title": "REMERA TELA",
+    "description": "NEGRA",
+    "price": "1500",
+    "category": "REMERA",
+    "status": true,
+    "thumbnail": "https://i.ibb.co/VBs2Fkv/v-negro1-86e5bc1ff7dde59fbf16762328396245-1024-1024.webp",
+    "code": "1337",
+    "stock": "10"
+  },
+  {
+    "id": 3,
+    "title": "REMERA",
+    "description": "ROJA",
+    "price": "15000",
+    "category": "REMERA",
+    "status": true,
+    "thumbnail": "https://i.ibb.co/94ysxMJ/rojo-photoroom11-c69464672dcacba7ea16762311588206-640-0.webp",
+    "code": "1338",
+    "stock": "24"
+  }
+]
