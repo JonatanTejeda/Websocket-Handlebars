@@ -1,7 +1,7 @@
 import {Router} from "express"
 import CartManager from "../Dao/controllers/cartManager.js"
 import { __dirname } from "../utils.js"
-const manager=new CartManager(__dirname+'/database/carts.json')
+const manager=new CartManager(__dirname+'')
 const router =Router()
 
 router.get("/carts",async(req,res)=>{

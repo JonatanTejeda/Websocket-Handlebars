@@ -20,5 +20,16 @@
     "thumbnail": "https://i.ibb.co/94ysxMJ/rojo-photoroom11-c69464672dcacba7ea16762311588206-640-0.webp",
     "code": "1338",
     "stock": "24"
+  },
+  {
+    "id": 4,
+    "title": "REMERA TELA",
+    "description": "AZUL",
+    "price": "1000",
+    "category": "REMERA",
+    "status": true,
+    "thumbnail": "https://i.ibb.co/kMqtTTJ/azul11-07730dcc4eb868487616762293730749-640-0.webp",
+    "code": "AA81",
+    "stock": "10"
   }
 ]
